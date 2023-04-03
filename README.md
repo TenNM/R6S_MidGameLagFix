@@ -12,6 +12,7 @@ Strange way to fix rainbow six siege mid game freezes
 
 Also, you can set affinity manual with task manager. But my program can do it instantly.
 ## How to use?
+-1. Download the app from Releases page https://github.com/TenNM/R6S_MidGameLagFix/releases
 0. Configure fix program .exe to run as administrator (once)
 1. Play as usual
 2. After mid game freezes run fix exe
@@ -19,4 +20,4 @@ Also, you can set affinity manual with task manager. But my program can do it in
 ## Features:
 - mid game freezes fix
 - output affinity information to the console
-### See functional in [Form1](https://github.com/TenNM/R6S_MidGameLagFix/blob/master/Program.cs)
+### See functional in [Program](https://github.com/TenNM/R6S_MidGameLagFix/blob/master/Program.cs)
